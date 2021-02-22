@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'colors.dart';
 
+//TODO: THEME FOR THE APP
 class AppTheme {
   AppTheme._();
   static final appTheme = AppTheme._();
