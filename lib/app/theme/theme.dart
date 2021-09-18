@@ -12,7 +12,7 @@ class AppTheme {
       buttonColor: AppColors.primaryBtnColor,
     ),
     iconTheme: const IconThemeData(color: AppColors.primaryBtnColor),
-    textTheme: const GoogleFonts.jostTextTheme().copyWith(
+    textTheme: GoogleFonts.jostTextTheme().copyWith(
         //FONT SIZE 14
         button: const TextStyle(color: AppColors.primaryTextColor),
         //FONT SIZE: 40
