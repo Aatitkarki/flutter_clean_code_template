@@ -1,4 +1,4 @@
-import 'package:flutter_isolates/app/presentation/homepage/view/homepage.dart';
+import '../app/presentation/homepage/view/homepage.dart';
 import 'package:get/get.dart';
 
 class AppPages {
