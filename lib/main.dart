@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_isolates/app/theme/theme.dart';
+import '../app/theme/theme.dart';
 import 'package:get/get.dart';
 import 'di/injector.dart';
 import 'routes/app_pages.dart';
